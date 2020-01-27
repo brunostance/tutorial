@@ -1,0 +1,850 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Boomerang HD">
+    <display-name lang="pt">Boomerang HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Boomerang FHD">
+    <display-name lang="pt">Boomerang FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Boomerang SD">
+    <display-name lang="pt">Boomerang SD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/sbn.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <programme start="20200126000000 -0400" stop="20200126002500 -0400" channel="Boomerang HD">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126002500 -0400" stop="20200126003000 -0400" channel="Boomerang HD">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126003000 -0400" stop="20200126003600 -0400" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126003600 -0400" stop="20200126004200 -0400" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126004200 -0400" stop="20200126005400 -0400" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126005400 -0400" stop="20200126010000 -0400" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126010000 -0400" stop="20200126010600 -0400" channel="Boomerang HD">
+    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126010600 -0400" stop="20200126011200 -0400" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126011200 -0400" stop="20200126012900 -0400" channel="Boomerang HD">
+    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126012900 -0400" stop="20200126014100 -0400" channel="Boomerang HD">
+    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126014100 -0400" stop="20200126015800 -0400" channel="Boomerang HD">
+    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126015800 -0400" stop="20200126020000 -0400" channel="Boomerang HD">
+    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126020000 -0400" stop="20200126030000 -0400" channel="Boomerang HD">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126030000 -0400" stop="20200126031200 -0400" channel="Boomerang HD">
+    <title lang="pt">George, O Rei da Floresta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126031200 -0400" stop="20200126032900 -0400" channel="Boomerang HD">
+    <title lang="pt">George, O Rei da Floresta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126032900 -0400" stop="20200126034000 -0400" channel="Boomerang HD">
+    <title lang="pt">George, O Rei da Floresta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126034000 -0400" stop="20200126035800 -0400" channel="Boomerang HD">
+    <title lang="pt">George, O Rei da Floresta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126035800 -0400" stop="20200126040000 -0400" channel="Boomerang HD">
+    <title lang="pt">George, O Rei da Floresta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126040000 -0400" stop="20200126041100 -0400" channel="Boomerang HD">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126041100 -0400" stop="20200126042900 -0400" channel="Boomerang HD">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126042900 -0400" stop="20200126043000 -0400" channel="Boomerang HD">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126043000 -0400" stop="20200126043700 -0400" channel="Boomerang HD">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126043700 -0400" stop="20200126044400 -0400" channel="Boomerang HD">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126044400 -0400" stop="20200126045700 -0400" channel="Boomerang HD">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126045700 -0400" stop="20200126050000 -0400" channel="Boomerang HD">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126050000 -0400" stop="20200126050400 -0400" channel="Boomerang HD">
+    <title lang="pt">Inspetor Bugiganga</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126050400 -0400" stop="20200126051200 -0400" channel="Boomerang HD">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126051200 -0400" stop="20200126053000 -0400" channel="Boomerang HD">
+    <title lang="pt">Inspetor Bugiganga</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126053000 -0400" stop="20200126054100 -0400" channel="Boomerang HD">
+    <title lang="pt">Inspetor Bugiganga</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126054100 -0400" stop="20200126060000 -0400" channel="Boomerang HD">
+    <title lang="pt">Inspetor Bugiganga</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126060000 -0400" stop="20200126060400 -0400" channel="Boomerang HD">
+    <title lang="pt">Mr. Bean</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126060400 -0400" stop="20200126061100 -0400" channel="Boomerang HD">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126061100 -0400" stop="20200126062800 -0400" channel="Boomerang HD">
+    <title lang="pt">Mr. Bean</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126062800 -0400" stop="20200126063000 -0400" channel="Boomerang HD">
+    <title lang="pt">Mr. Bean</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126063000 -0400" stop="20200126063800 -0400" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126063800 -0400" stop="20200126065100 -0400" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126065100 -0400" stop="20200126065900 -0400" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126065900 -0400" stop="20200126070000 -0400" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126070000 -0400" stop="20200126070800 -0400" channel="Boomerang HD">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126070800 -0400" stop="20200126072100 -0400" channel="Boomerang HD">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126072100 -0400" stop="20200126073000 -0400" channel="Boomerang HD">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126073000 -0400" stop="20200126080000 -0400" channel="Boomerang HD">
+    <title lang="pt">Sr. Peabody e Sherman Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126080000 -0400" stop="20200126080600 -0400" channel="Boomerang HD">
+    <title lang="pt">Contos da Masha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126080600 -0400" stop="20200126081700 -0400" channel="Boomerang HD">
+    <title lang="pt">Contos da Masha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126081700 -0400" stop="20200126082300 -0400" channel="Boomerang HD">
+    <title lang="pt">Contos da Masha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126082300 -0400" stop="20200126083000 -0400" channel="Boomerang HD">
+    <title lang="pt">Contos da Masha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126083000 -0400" stop="20200126083700 -0400" channel="Boomerang HD">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126083700 -0400" stop="20200126084600 -0400" channel="Boomerang HD">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126084600 -0400" stop="20200126090000 -0400" channel="Boomerang HD">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126090000 -0400" stop="20200126090700 -0400" channel="Boomerang HD">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126090700 -0400" stop="20200126091600 -0400" channel="Boomerang HD">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126091600 -0400" stop="20200126093000 -0400" channel="Boomerang HD">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126093000 -0400" stop="20200126093600 -0400" channel="Boomerang HD">
+    <title lang="pt">Contos Assustadores da Masha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126093600 -0400" stop="20200126093800 -0400" channel="Boomerang HD">
+    <title lang="pt">Contos Assustadores da Masha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126093800 -0400" stop="20200126094800 -0400" channel="Boomerang HD">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126094800 -0400" stop="20200126095400 -0400" channel="Boomerang HD">
+    <title lang="pt">Contos Assustadores da Masha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126095400 -0400" stop="20200126095500 -0400" channel="Boomerang HD">
+    <title lang="pt">Contos Assustadores da Masha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126095500 -0400" stop="20200126100000 -0400" channel="Boomerang HD">
+    <title lang="pt">The Happos Family</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126100000 -0400" stop="20200126100800 -0400" channel="Boomerang HD">
+    <title lang="pt">Mighty Mike</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126100800 -0400" stop="20200126101500 -0400" channel="Boomerang HD">
+    <title lang="pt">Mighty Mike</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126101500 -0400" stop="20200126101600 -0400" channel="Boomerang HD">
+    <title lang="pt">Weeboom</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126101600 -0400" stop="20200126102300 -0400" channel="Boomerang HD">
+    <title lang="pt">Mighty Mike</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126102300 -0400" stop="20200126103000 -0400" channel="Boomerang HD">
+    <title lang="pt">Weeboom</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126103000 -0400" stop="20200126104700 -0400" channel="Boomerang HD">
+    <title lang="pt">Mr. Bean</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126104700 -0400" stop="20200126105500 -0400" channel="Boomerang HD">
+    <title lang="pt">Mr. Bean</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126105500 -0400" stop="20200126110000 -0400" channel="Boomerang HD">
+    <title lang="pt">Oddbods</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126110000 -0400" stop="20200126110700 -0400" channel="Boomerang HD">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126110700 -0400" stop="20200126112000 -0400" channel="Boomerang HD">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126112000 -0400" stop="20200126112700 -0400" channel="Boomerang HD">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126112700 -0400" stop="20200126113000 -0400" channel="Boomerang HD">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126113000 -0400" stop="20200126113800 -0400" channel="Boomerang HD">
+    <title lang="pt">Weeboom</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126113800 -0400" stop="20200126114500 -0400" channel="Boomerang HD">
+    <title lang="pt">Weeboom</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126114500 -0400" stop="20200126115200 -0400" channel="Boomerang HD">
+    <title lang="pt">Zuzubalândia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126115200 -0400" stop="20200126120000 -0400" channel="Boomerang HD">
+    <title lang="pt">Zuzubalândia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126120000 -0400" stop="20200126122500 -0400" channel="Boomerang HD">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126122500 -0400" stop="20200126123000 -0400" channel="Boomerang HD">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126123000 -0400" stop="20200126130000 -0400" channel="Boomerang HD">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126130000 -0400" stop="20200126131200 -0400" channel="Boomerang HD">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126131200 -0400" stop="20200126132800 -0400" channel="Boomerang HD">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126132800 -0400" stop="20200126133000 -0400" channel="Boomerang HD">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126133000 -0400" stop="20200126133700 -0400" channel="Boomerang HD">
+    <title lang="pt">Taffy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126133700 -0400" stop="20200126135000 -0400" channel="Boomerang HD">
+    <title lang="pt">Taffy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126135000 -0400" stop="20200126135800 -0400" channel="Boomerang HD">
+    <title lang="pt">Taffy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126135800 -0400" stop="20200126140000 -0400" channel="Boomerang HD">
+    <title lang="pt">Taffy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126140000 -0400" stop="20200126154500 -0400" channel="Boomerang HD">
+    <title lang="pt">Zoom: Academia de Super-Heróis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126154500 -0400" stop="20200126155200 -0400" channel="Boomerang HD">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126155200 -0400" stop="20200126160000 -0400" channel="Boomerang HD">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126160000 -0400" stop="20200126162000 -0400" channel="Boomerang HD">
+    <title lang="pt">Barbie Dreamhouse Adventures</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126162000 -0400" stop="20200126163000 -0400" channel="Boomerang HD">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126163000 -0400" stop="20200126164100 -0400" channel="Boomerang HD">
+    <title lang="pt">Lego Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126164100 -0400" stop="20200126165800 -0400" channel="Boomerang HD">
+    <title lang="pt">Lego Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126165800 -0400" stop="20200126170000 -0400" channel="Boomerang HD">
+    <title lang="pt">Lego Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126170000 -0400" stop="20200126171500 -0400" channel="Boomerang HD">
+    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126171500 -0400" stop="20200126172200 -0400" channel="Boomerang HD">
+    <title lang="pt">Zuzubalândia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126172200 -0400" stop="20200126173500 -0400" channel="Boomerang HD">
+    <title lang="pt">Zuzubalândia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126173500 -0400" stop="20200126174000 -0400" channel="Boomerang HD">
+    <title lang="pt">Zuzubalândia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126174000 -0400" stop="20200126174500 -0400" channel="Boomerang HD">
+    <title lang="pt">The Happos Family</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126174500 -0400" stop="20200126180000 -0400" channel="Boomerang HD">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126180000 -0400" stop="20200126181200 -0400" channel="Boomerang HD">
+    <title lang="pt">Corrida Maluca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126181200 -0400" stop="20200126182900 -0400" channel="Boomerang HD">
+    <title lang="pt">Corrida Maluca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126182900 -0400" stop="20200126183000 -0400" channel="Boomerang HD">
+    <title lang="pt">Corrida Maluca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126183000 -0400" stop="20200126190000 -0400" channel="Boomerang HD">
+    <title lang="pt">Scooby-Doo! E Convidados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126190000 -0400" stop="20200126190800 -0400" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126190800 -0400" stop="20200126192100 -0400" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126192100 -0400" stop="20200126192500 -0400" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126192500 -0400" stop="20200126192800 -0400" channel="Boomerang HD">
+    <title lang="pt">The Happos Family</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126192800 -0400" stop="20200126193000 -0400" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126193000 -0400" stop="20200126195500 -0400" channel="Boomerang HD">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126195500 -0400" stop="20200126200000 -0400" channel="Boomerang HD">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126200000 -0400" stop="20200126200600 -0400" channel="Boomerang HD">
+    <title lang="pt">Contos da Masha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126200600 -0400" stop="20200126201700 -0400" channel="Boomerang HD">
+    <title lang="pt">Contos da Masha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126201700 -0400" stop="20200126202300 -0400" channel="Boomerang HD">
+    <title lang="pt">Contos da Masha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126202300 -0400" stop="20200126203000 -0400" channel="Boomerang HD">
+    <title lang="pt">Contos da Masha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126203000 -0400" stop="20200126203600 -0400" channel="Boomerang HD">
+    <title lang="pt">Contos Assustadores da Masha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126203600 -0400" stop="20200126204200 -0400" channel="Boomerang HD">
+    <title lang="pt">Contos Assustadores da Masha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126204200 -0400" stop="20200126205400 -0400" channel="Boomerang HD">
+    <title lang="pt">Contos Assustadores da Masha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126205400 -0400" stop="20200126210000 -0400" channel="Boomerang HD">
+    <title lang="pt">Contos Assustadores da Masha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126210000 -0400" stop="20200126210800 -0400" channel="Boomerang HD">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126210800 -0400" stop="20200126212100 -0400" channel="Boomerang HD">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126212100 -0400" stop="20200126212900 -0400" channel="Boomerang HD">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126212900 -0400" stop="20200126214300 -0400" channel="Boomerang HD">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126214300 -0400" stop="20200126214500 -0400" channel="Boomerang HD">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126214500 -0400" stop="20200126215100 -0400" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126215100 -0400" stop="20200126215700 -0400" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126215700 -0400" stop="20200126220000 -0400" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126220000 -0400" stop="20200126221200 -0400" channel="Boomerang HD">
+    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126221200 -0400" stop="20200126222900 -0400" channel="Boomerang HD">
+    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126222900 -0400" stop="20200126223000 -0400" channel="Boomerang HD">
+    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126223000 -0400" stop="20200126224700 -0400" channel="Boomerang HD">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126224700 -0400" stop="20200126225500 -0400" channel="Boomerang HD">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126225500 -0400" stop="20200126230000 -0400" channel="Boomerang HD">
+    <title lang="pt">Oddbods</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126230000 -0400" stop="20200126230700 -0400" channel="Boomerang HD">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126230700 -0400" stop="20200126232000 -0400" channel="Boomerang HD">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126232000 -0400" stop="20200126232700 -0400" channel="Boomerang HD">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126232700 -0400" stop="20200126233000 -0400" channel="Boomerang HD">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126233000 -0400" stop="20200126233800 -0400" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126233800 -0400" stop="20200126235100 -0400" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126235100 -0400" stop="20200126235900 -0400" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200126235900 -0400" stop="20200127000000 -0400" channel="Boomerang HD">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
